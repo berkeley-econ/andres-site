@@ -1,0 +1,193 @@
+---
+title: ""
+---
+
+# Andrés Rodríguez-Clare
+
+::: {.professor-title}
+Edward G. and Nancy S. Jordan Professor of Economics
+:::
+
+::: {.header-section}
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/andres-photo.jpg){.profile-photo}
+:::
+
+::: {.column width="70%"}
+**Department of Economics**  
+609 Evans Hall  
+[arc@berkeley.edu](mailto:arc@berkeley.edu)
+
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/ntokaqhfznj4lc96g586w/CV-June-2025.pdf?rlkey=l5srjxp1pmpypvvj9vp6hovqt&raw=1)
+
+**Other affiliations:**
+
+- Fellow of the Econometric Society  
+- Research Associate, [National Bureau of Economic Research](http://www.nber.org/)  
+- Research Fellow, Center for Economic and Policy Research  
+- Visiting Scholar, San Francisco Federal Reserve  
+- Visiting Professor, University of Nottingham
+:::
+
+::::
+:::
+
+## Working Papers
+
+- ["Carbon Emissions in the Global Economy"](https://www.dropbox.com/scl/fi/9urcutla4zxc8ratlo0tt/TradeCO2-draft-v24-vNBER.pdf?rlkey=m91m08sby0hhlsajwhekdv23a&dl=0) (with Ezequiel Garcia-Lembergman, Natalia Ramondo, and Joe Shapiro), July 2025.
+
+- ["A Dynamic Theory of Optimal Tariffs"](https://www.dropbox.com/scl/fi/esm5r24zlq7kdqvo8eze2/ITM.pdf?rlkey=wrxx4p59fiuj9rg4m4s62wpif&dl=0) (with Eduardo Davila, Andreas Schaab, and Stacy Yingqi Tan), May 2025.
+
+- ["The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy"](https://www.dropbox.com/scl/fi/w2e70zn6271022bd6mm4p/Tariffs.pdf?rlkey=hn0ayxlfyfsd9nk9hj3t1c5re&dl=0) (with Mauricio Ulate, Jose P. Vasquez, and Roman Zarate), July 2025.
+
+- ["Scaling Agricultural Policy Interventions: Theory and Evidence from Uganda"](https://www.dropbox.com/s/idimmxs5c4k7b4x/Draft_ScalingUp.pdf?raw=1) (with Lauren Bergquist, Ben Faber, Thibault Fally, Matthias Hoelzlein, and Ted Miguel), April 2025. Revision submitted to Econometrica.
+
+## Work in Progress
+
+- "The New Quantitative Trade Model: Equilibrium and Welfare Analysis" (with Dominick Bartelme, Konstantin Kucheryavyy, and Yuyang Jiang), [preliminary slides](https://www.dropbox.com/scl/fi/flqhdp2v6s68ogdh534rg/BJKR_SLIDES_NOV_2023.pdf?rlkey=pxmctm822lilxz8fzbj03az1w&raw=1), October 2023.
+
+- "The Carbon Footprint of Multinational Production" (with Ezequiel Garcia-Lembergman, Natalia Ramondo, and Joe Shapiro), [preliminary slides](https://www.dropbox.com/scl/fi/glvzxh3mokr8ylfhf65lo/NATALIA_RAMONDO_SED.pdf?rlkey=0poqqmooewxjvom88bdbrvsvd&dl=0), June 2025.
+
+- "Optimality with Intertemporal Externalities," (with Zhuokai Huang and Demian Pouzo).
+
+## Handbook Chapters
+
+- ["Trade Theory with Numbers: Quantifying the Consequences of Globalization"](https://www.dropbox.com/s/k9qaip6jz5rlcfm/Published_CRC_Handbook.pdf?raw=1) (with Arnaud Costinot), Handbook of International Economics Volume 4, edited by G. Gopinath, E. Helpman, and K. Rogoff, 2014. [Online Appendix](https://www.dropbox.com/s/6qaco9uk8nlmai4/Online_Appendix_FINAL.pdf?raw=1), [Codes and Data](https://www.dropbox.com/s/h06obkg05sxqf39/ALL_CODE_AND_DATA_FINAL.zip?raw=1)
+
+- ["Trade, Foreign Investment, and Industrial Policy,"](https://www.dropbox.com/s/g0oz72vrhu0ihkz/Industrial%20Policy%20Handbook%20Final.pdf?raw=1) (with Ann Harrison), Handbook of Development Economics Volume 5, edited by D. Rodrik and M. Rosenzweig, 2010.
+
+- ["Externalities and Growth,"](https://www.dropbox.com/s/35pnifi05xh3fga/Externalities-Growth.pdf?raw=1) (with Pete Klenow) Handbook of Economic Growth, Volume 1A, edited by P. Aghion and S. Durlauf, 2005.
+
+## Refereed Publications
+
+- ["Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock"](https://www.dropbox.com/scl/fi/vloz7dhtzz2mrud3mevto/NKTMarch2025.pdf?rlkey=cmh27mhl7gyj25dm29dwlmq1o&raw=1) (with Mauricio Ulate and Jose P. Vasquez), March 2025. Forthcoming in the Journal of Political Economy.
+
+- ["The Textbook Case for Industrial Policy: Theory Meets Data"](https://www.dropbox.com/scl/fi/s235iaqsmh8uqmv33vs1v/BCDR_published.pdf?rlkey=399j42l8udtk1avvp6fcq93fj&raw=1) (with Dominick Bartelme, Arnaud Costinot and Dave Donaldson), Journal of Political Economy, May 2025.
+
+- ["The Small-Open Economy in a Generalized Gravity Model"](https://www.dropbox.com/scl/fi/be8cjulnp22q4ygwi3v9l/DKNR_published.pdf?rlkey=dwuejy8m34z5trns6j65vcnbu&raw=1) (with Svetlana Demidova, Konstantin Kucheryavyy and Takumi Naito), Journal of International Economics, November 2024. [Online Appendix](https://www.dropbox.com/scl/fi/bbfxbemomo8xu4litmq15/DKNR-Online-Appendix-Aug-9-2024.pdf?rlkey=tg12asb4p68h2r7rpz0g6rp5g&raw=1). [Slides for the 2022 version](https://www.dropbox.com/s/nvemti2mbdzj9sz/DNR_Slides_September_30%20WEB.pdf?raw=1).
+
+- ["Spatial Equilibria: The Case of Two Regions"](https://www.dropbox.com/scl/fi/3gdlbitcd2wbo37c8y80j/KLR2published.pdf?rlkey=egq13c7uocog4iped867xpcl9&raw=1) (with Gary Lyn and Konstantin Kucheryavyy), Journal of International Economics, November 2024. [Online Appendix](https://www.dropbox.com/s/oq1ur9hh5xd7zc8/KLRC_Uniqueness_Spatial_Equilibria_OnlineAppendix.pdf?raw=1).
+
+- ["The Intensive Margin in Trade: How Big and How Important?"](https://www.dropbox.com/scl/fi/475q1b5w6ukof0dt1zm21/Pareto_published.pdf?rlkey=yg0yfv2saax59ef9ec5jmp6zn&raw=1) (with Ana Fernandes, Pete Klenow, Martha Denisse Pierola and Sergii Meleshchuk), American Economic Journal: Macroeconomics, July 2023. [Online Appendix](https://www.dropbox.com/s/lkkkpgj4ugz43fg/The_Intensive_Margin_in_Trade__OnlineAppendix.pdf?raw=1).
+
+- ["Grounded by Gravity: A Well-Behaved Trade Model with Industry-Level Economies of Scale"](https://www.dropbox.com/scl/fi/deecy1hvu0jhu8o88bdck/KLR_published.pdf?rlkey=y9yd4sypm2fod199ui3o6fzzc&raw=1) (with Konstantin Kucheryavyy and Gary Lyn), American Economic Journal: Macroeconomics, April 2023. [Codes and Data](https://www.dropbox.com/s/9eqagev34mvsvpr/KLR_Code.zip?dl=0). [Online Appendix](https://www.dropbox.com/s/u5rui8b4zoqhaxw/KLR%20March%202022%20Online%20Appendix.pdf?raw=1).
+
+- ["Slicing the Pie: Quantifying the Aggregate and Distributional Consequences of Trade"](https://www.dropbox.com/s/vwtxixjd0fcd1s0/rdac020.pdf?raw=1) (with Simon Galle and Moises Yi), Review of Economic Studies, January 2023. [Slides](https://www.dropbox.com/scl/fi/buvfkgl4c27jqjn87c1qk/USITC_SlicingThePie2023.pdf?rlkey=jf6vve528b50zkixby1rmknue&raw=1). [Slides with no equations](https://www.dropbox.com/s/ngt9c7j0nvxzmzq/Presentation_BCCR_August_2017.pdf?raw=1). [Online Appendix](https://www.dropbox.com/s/942q9q0ww1d33d9/Slicing_the_Pie_OnlineAppendix.pdf?raw=1). [Replication package](https://zenodo.org/record/6256415#.YzshD-zMLX0).
+
+- ["Micro to Macro: Optimal Trade Policy with Firm Heterogeneity"](https://www.dropbox.com/s/ij2g4p5yjloh39b/ECTA14763.pdf?raw=1) (with Arnaud Costinot and Iván Werning), Econometrica, November, 2020. [Online Appendix](https://www.dropbox.com/s/yqaram1s27x1m1c/LATEST_APPENDIX.pdf?raw=1).
+
+- ["The Elusive Pro-Competitive Effects of Trade"](https://www.dropbox.com/s/mz9bo6nmafeeigp/ACDR_published_version.pdf?raw=1) (with Costas Arkolakis, Arnaud Costinot, and Dave Donaldson), Review of Economic Studies, January 2019. [Online Appendix](https://www.dropbox.com/s/0nz2skcp9y4gb0r/ACDR_appendix_latest.pdf?raw=1).
+
+- ["Innovation and Production in the Global Economy"](https://www.dropbox.com/s/izhij6oqgetou4j/aer.20141743%20Published%20Arkolakis%20Ramodno%20Rodriduez%20Clare%20Innovation%20Production%20Global%20Economy%20AER%202018%20vol%20108%208.pdf?raw=1) (with Costas Arkolakis, Natalia Ramondo and Stephen Yeaple), American Economic Review, August 2018. [Online Appendix](https://www.dropbox.com/s/5go86nrprv7ui74/ARRY_OnlineAppendix.pdf?raw=1).
+
+- ["Trade, Domestic Frictions, and Scale Effects"](https://www.dropbox.com/s/jse66xpt2m3801t/Ramondo%20Rodriguez-Clare%20RRS%20AER%202016.pdf?raw=1) (with Natalia Ramondo and Milagro Saborio), American Economic Review, October 2016. [Appendix](https://eml.berkeley.edu/~arodeml/Papers/RRS_Appendix_Jan_2016.pdf). [Slides](https://eml.berkeley.edu/~arodeml/Papers/RRS_Slides_Oct2014.pdf). [Extension to Multinational Production](https://eml.berkeley.edu/~arodeml/Papers/RRS_AppendixWithMP_Jan_2016.pdf).
+
+- ["External Economies and International Trade Redux: A Comment"](https://eml.berkeley.edu/~arodeml/Papers/Redux.pdf) (with Gary Lyn), Quarterly Journal of Economics, November 2013, [Online Appendix](https://eml.berkeley.edu/~arodeml/Papers/ReduxOnlineAppendix.pdf).
+
+- ["The Simple Analytics of the Melitz Model in a Small Open Economy"](https://eml.berkeley.edu/~arodeml/Papers/Small_Economy_Melitz_March_2013.pdf) (with Svetlana Demidova), Journal of International Economics, July 2013.
+
+- ["Trade, Multinational Production, and the Gains from Openness"](https://eml.berkeley.edu/~arodeml/Papers/RR2013JPE.pdf) (with Natalia Ramondo), Journal of Political Economy, April 2013. [Auxiliary files](https://eml.berkeley.edu/~arodeml/Papers/AuxTradeMP.zip).
+
+- ["New Trade Models, Same Old Gains?"](https://eml.berkeley.edu/~arodeml/Papers/ACR_2012_published.pdf) (with Costas Arkolakis and Arnaud Costinot), American Economic Review, February 2012, [Online Appendix](https://eml.berkeley.edu/~arodeml/Papers/Appendix-10-09-05.pdf).
+
+- ["Entrepreneurship and the Extensive Margin in Export Growth: A Microeconomic Accounting of Costa Rica's Export Growth during 1997-2007"](https://eml.berkeley.edu/~arodeml/Papers/Lederman%20Rodriguez%20Xu%20May%202011.pdf) (with Daniel Lederman and Daniel Yi Xu), World Bank Economic Review, 2011 (Vol. 25, No. 3).
+
+- ["Offshoring in a Ricardian World"](https://eml.berkeley.edu/~arodeml/Papers/OffshoringAEJM.pdf) American Economic Journal: Macroeconomics, Vol. 2, No. 2, April 2010. [Auxiliary files](https://eml.berkeley.edu/~arodeml/Auxiliary%20files%20for%20Offshoring.htm).
+
+- ["Trade Policy under Firm-Level Heterogeneity in a Small Economy"](https://eml.berkeley.edu/~arodeml/Papers/Trade%20Policy%20with%20Heterogeneity%20JIE.pdf) (with Svetlana Demidova), Journal of International Economics, Vol. 78, No. 1, June 2009, Pages 100-112.
+
+- ["Innovation Shortfalls"](https://eml.berkeley.edu/~arodeml/Papers/Innovation%20Shortfalls%20Final%20April%202007.pdf) (with William Maloney), Review of Development Economics, Vol. 11, No. 4, November 2007, pp. 665-684.
+
+- ["A Political Economy Theory of Trade Agreements"](https://eml.berkeley.edu/~arodeml/Papers/MRWorkingPaperMarch14.pdf) (with Giovanni Maggi), American Economic Review, Vol. 97, No. 4, September 2007, pp. 1374-1406.
+
+- ["Clusters and Comparative Advantage: Implications for Industrial Policy"](https://eml.berkeley.edu/~arodeml/Papers/JDEClusters.pdf) Journal of Development Economics, Vol. 82 (February 2007), pp. 43-57.
+
+- ["Import Penetration and the Politics of Trade Protection"](https://eml.berkeley.edu/~arodeml/Papers/ImportPenetration.pdf) (with Giovanni Maggi), Journal of International Economics, vol. 51, pp. 287-304, August 2000.
+
+- ["The Value of Free Trade Agreements in the Presence of Political Pressures"](https://www.dropbox.com/scl/fi/s73ds1syol8jurq73cwg8/Maggi-Rodriguez-Clare-JPE-1998.pdf?rlkey=e63a1nq5cqcwrm4t2s6q0a2jj&raw=1) (with Giovanni Maggi), Journal of Political Economy, June 1998.
+
+- ["Multinationals, Linkages and Economic Development"](https://eml.berkeley.edu/~arodeml/Papers/AERMultinationalsLinkages.pdf) American Economic Review, September 1996.
+
+- ["The Division of Labor and Economic Development"](https://eml.berkeley.edu/~arodeml/Papers/DOL.pdf) Journal of Development Economics, June 1996.
+
+- ["Costly Distortion of Information in Agency Problems"](https://www.dropbox.com/scl/fi/bwm587d46n4ihul2sq3y1/Maggi-CostlyDistortionInformation-1995.pdf?rlkey=19bl06dhivt5a6q9jlcv743vy&raw=1) (with Giovanni Maggi), RAND Journal of Economics, winter 1995.
+
+- ["On Countervailing Incentives"](https://www.dropbox.com/scl/fi/iuq8t7zn46etzasjs0fid/MR-On-Countervailing-Incentives.pdf?rlkey=4nx77ys63b9oqbv9md79osmmu&raw=1) (with Giovanni Maggi), Journal of Economic Theory, July 1995.
+
+## Other Publications
+
+- "The Gains from Trade in Poor and Rich Countries," in Meeting Globalization's Challenges: Policies to Make Trade Work for All, edited by Luis A. V. Catao and Maurice Obstfeld, Princeton University Press.
+
+- ["The US Gains From Trade: Valuation Using the Demand for Foreign Factor Services"](https://www.dropbox.com/s/weop0g7lgvas722/Published_CRC_2018.pdf?raw=1) (with Arnaud Costinot), Journal of Economic Perspectives, Spring 2018.
+
+- ["Multinational Production: Data and Stylized Facts"](https://eml.berkeley.edu/~arodeml/Papers/RRT_published_AERPP_2015.pdf) (with Natalia Ramondo and Felix Tintelnot), American Economic Review Papers and Proceedings, May 2015. [Online Appendix](https://eml.berkeley.edu/~arodeml/Papers/RRT_OnlineAppendix_AERPP_2015.pdf). [Data](https://eml.berkeley.edu/~arodeml/Papers/appendix-dataset.dta).
+
+- ["Growth, Size, and Openness: A Quantitative Approach"](https://eml.berkeley.edu/~arodeml/Papers/Growth,%20Size%20and%20Openess%20for%20AERPP.pdf) (with Natalia Ramondo), American Economic Review Papers and Proceedings, May 2010.
+
+- ["Endogenous Variety and the Gains from Trade"](https://eml.berkeley.edu/~arodeml/Papers/AERPP%20NBER%20version%20April%2024%202008.pdf) (with Costas Arkolakis, Svetlana Demidova and Pete Klenow), American Economic Review Papers and Proceedings, May 2008.
+
+- ["Coordination Failures, Clusters and Microeconomic Interventions"](https://eml.berkeley.edu/~arodeml/Papers/Coordination-Failures-June-2005.pdf) Economia (Journal of LACEA), Fall 2005, Vol. 6, No. 1, pp. 1-29.
+
+- ["Multinationals and Linkages: an Empirical Investigation"](https://eml.berkeley.edu/~arodeml/Papers/MultinationalsandLinkages-January-2004.pdf) (with Laura Alfaro), Economia (Journal of LACEA), Spring 2004 (Volume 4, Number 2).
+
+- ["Economic Growth: A Review Essay"](http://www.klenow.com/Review.pdf) (with Pete Klenow) Journal of Monetary Economics, November 1997.
+
+- ["The Neoclassical Revival in Growth Economics: Has It Gone Too Far?"](http://www.klenow.com/NBERMA.pdf) (with Pete Klenow), 1997 NBER Macroeconomics Annual.
+
+- ["Positive Feedback Mechanisms in Economic Development"](https://eml.berkeley.edu/~arodeml/Papers/Positive%20Feedback%20Mechanisms%20in%20Economic%20Development.pdf) in Development Strategy and Management of the Market Economy, I. P. Szekeley and R. Sabot (eds), Clarendon Press Oxford, 1997.
+
+- ["On Endogenizing Long-Run Growth"](http://www.stanford.edu/~hammond/endoGrowth.pdf) (with Peter Hammond), Scandinavian Journal of Economics, vol. 95, 1993, No. 4.
+
+## Op-Eds, Applied and Policy-Oriented Papers and Reviews
+
+- [Seven Questions about Tariffs (with Answers!)](https://cepr.org/system/files/publication-files/252704-the_economic_consequences_of_the_second_trump_administration_a_preliminary_assessment.pdf) (with Arnaud Costinot), in The Economic Consequences of the Second Trump Administration: A Preliminary Assessment, e-book by CEPR edited by Gary Gensler, Simon Johnson, Ugo Panizza, and Beatrice Weder di Mauro, chapter 23, 2025.
+
+- [The Wrong Tariff for the Wrong Reason](https://www.dropbox.com/scl/fi/z73sfhsvghxtcm52hzcv5/The-wrong-tariff-for-the-wrong-reason.pdf?rlkey=qak052r5ecp6t4jay3calniro&raw=1) (with Arnaud Costinot), op-ed in Le Monde, 2025.
+
+- [Review of Dani Rodrik's "One Economics, Many Recipes"](https://eml.berkeley.edu/~arodeml/Papers/Review%20of%20Rodrik%27s%20One%20Economics,%20Many%20Recipes.pdf) Journal of International Economics, Volume 77, Issue 1, February 2009, Pages 133-135.
+
+- ["Productive Development Policies and Supporting Institutions in Latin America and the Caribbean"](https://www.dropbox.com/scl/fi/fxvp9o2yvezskovexa8l5/Productive-Development-Policies-and-Supporting-Institutions-in-Latin-America-and-The-Caribbean.pdf?rlkey=yggs114su28zr0az185ea4wb0&raw=1) (with Alberto Melo), February 2006, IADB Research Department Working Paper No. 106, published in The State of State Reform in Latin America, edited by Eduardo Lora, Stanford University Press, 2007.
+
+- ["Microeconomic Interventions after the Washington Consensus"](https://eml.berkeley.edu/~arodeml/Papers/MicroeconomicInterventions.pdf) August 2004.
+
+- ["Towards a Strategy for Economic Growth in Uruguay"](https://eml.berkeley.edu/~arodeml/Papers/Uruguay-January-2005.doc) (with Ricardo Hausman and Dani Rodrik), December 2004.
+
+- ["Intel: A Case Study of Foreign Direct Investment in Central America"](https://eml.berkeley.edu/~arodeml/Papers/Intel.pdf) (with Felipe Larrain and Luis F. Lopez-Calva), in Economic Development in Central America, Volume I: Growth and Internationalization, Felipe Larrain B. (ed), Harvard University Press, 2001.
+
+- ["Costa Rica's Development Strategy based on Human Capital and Technology: how it got there, the impact of Intel, and lessons for other countries"](https://eml.berkeley.edu/~arodeml/Papers/CRDevelopmentStrategy.pdf) Journal of Human Development, Vol. 2, No. 2, 2001.
+
+- ["Innovation and Technology Adoption in Central America"](https://eml.berkeley.edu/~arodeml/Papers/IandTA-CA.pdf) February 2003.
+
+- ["Economic Growth in Costa Rica"](https://eml.berkeley.edu/~arodeml/Papers/EconomicGrowthCR.pdf) (with Alberto Trejos and Manrique Saenz), March 2002 - Published in Spanish in Pequeñas Economias, Grandes Desafios, Manuel Agosin, Roberto Machado y Paulina Nazal (eds), Inter-American Development Bank, 2004.
+
+- ["Variaciones sobre un viejo tema: acceso de las PyMEs al credito"](https://eml.berkeley.edu/~arodeml/Papers/PYMESyCredito.pdf) in Ensayos en Honor a Eduardo Lizano Fait, edited by Grettel Lopez and Reinaldo Herrera, Academia de Centroamerica, 2004.
+
+- ["El Papel del Estado en el Desarrollo Economico"](https://eml.berkeley.edu/~arodeml/Papers/PapelEstado_en_LibroClaudio.pdf) published in Ensayos en honor a Claudio Gonzalez-Vega, edited by Grettel Lopez and Juan Carlos Obando, Academia de Centroamerica, 2003.
+
+## IADB Publications
+
+- [The Emergence of China: Opportunities and Challenges for Latin America and the Caribbean](http://www.iadb.org/INT/Trade/1_english/4_SpecialInfo/Conference/k_Oct1/1_AgendaEng.htm) (with Robert Devlin and Antoni Estevadeordal).
+
+- [Economic and Social Progress Report 2004, Good Jobs Wanted: Labor Markets in Latin America, Inter-American Development Bank, 2003](http://www.iadb.org/res/index.cfm?fuseaction=Publications.View&pub_id=B-2004E) - I wrote chapter 6, titled [Employment Outcomes and the Role of Technology](http://www.iadb.org/res/publications/pubfiles/pubB-2004E_6509.pdf).
+
+- [Economic and Social Progress Report 2005, Unlocking Credit: The Quest for Deep and Stable Bank Lending, Inter-American Development Bank, 2005](http://services.iadb.org/res/ipes/2005/index.cfm) - I wrote chapter 14, titled [Access to Financing for SMEs](http://services.iadb.org/res/ipes/2005/docs/Chapter14Eng.pdf) (with Ernesto Stein).
+
+## Old Working Papers
+
+- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](https://www.dropbox.com/s/wbiojv1ifxpvsqo/Draft_May_30.pdf?raw=1) (with Costas Arkolakis, Jiun-Hua Su), May 2017.
+
+- ["Gains From Trade under Monopolistic Competition: The Translog-Pareto Case"](https://eml.berkeley.edu/~arodeml/Papers/Translog-10-09-05.pdf) (with Costas Arkolakis and Arnaud Costinot), September 2010.
+
+- ["Marshallian Externalities, Comparative Advantage, and International Trade"](https://eml.berkeley.edu/~arodeml/Papers/LR_Marshallian_Externalities_Trade.pdf) (with Gary Lyn), November 2011.
+
+- ["Trade, Diffusion, and the Gains from Openness"](https://eml.berkeley.edu/~arodeml/Papers/GTD%20November%2029%202007.pdf) November 2007 (first version November 2006). [MATLAB codes and data](https://eml.berkeley.edu/~arodeml/Papers/GTD%20Equilibrium%20October%202007.zip).
+
+- ["Quantifying Variety Gains from Trade Liberalization"](http://klenow.com/QuantifyingVariety.pdf) (with Pete Klenow), September 1997.
+
+- ["Import Tariffs, Export Subsidies, and the Theory of Trade Agreements"](https://eml.berkeley.edu/~arodeml/Papers/TariffsandsubsidiesJune29.pdf) (with Giovanni Maggi), June 2005.
+
+- ["The Role of Trade in Technology Diffusion"](http://www.minneapolisfed.org/research/DP/DP114.pdf) November 1996.
+
+- "Lobbying and the Theory of Trade Agreements" (with Giovanni Maggi), November 2011, [slides](https://eml.berkeley.edu/~arodeml/Papers/MR2_slides_12_10_11.pdf).
