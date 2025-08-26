@@ -1,1 +1,1 @@
-Sitemap: https://berkeley-econ.github.io/andres-site/sitemap.xml
+Sitemap: https://andres.econ.berkeley.edu/sitemap.xml
