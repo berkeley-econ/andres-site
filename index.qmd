@@ -179,8 +179,6 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 ## Old Working Papers
 
-- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](https://www.dropbox.com/s/wbiojv1ifxpvsqo/Draft_May_30.pdf?raw=1) (with Costas Arkolakis, Jiun-Hua Su), May 2017.
-
 - ["Gains From Trade under Monopolistic Competition: The Translog-Pareto Case"](https://eml.berkeley.edu/~arodeml/Papers/Translog-10-09-05.pdf) (with Costas Arkolakis and Arnaud Costinot), September 2010.
 
 - ["Marshallian Externalities, Comparative Advantage, and International Trade"](https://eml.berkeley.edu/~arodeml/Papers/LR_Marshallian_Externalities_Trade.pdf) (with Gary Lyn), November 2011.
