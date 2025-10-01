@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,13 +31,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d68be38d83eca2bb035acf846ffba811.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -121,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://www.dropbox.com/scl/fi/ot2088fbv2igph6w6yvu5/BJKR-Sep-2025-Submitted.pdf?rlkey=kns9qny5p05ut0zzzzfrj916q&amp;raw=1">“Scale Economies, Input-Output Loops, and Trade”</a> (with Dominick Bartelme, Konstantin Kucheryavyy, and Yuyang Jiang), September 2025. <a href="https://www.dropbox.com/scl/fi/kesarkjkxgl5sy8akgjci/BJKR-Online-Appendix-Sep-8-2025.pdf?rlkey=c1w1pbo9maxc7kif4leept0bt&amp;raw=1">Online Appendix</a></p></li>
 <li><p><a href="https://www.dropbox.com/scl/fi/zna4igl04ztifmv34dtrv/Draft20250905v2.pdf?rlkey=tk3m6iyo8fumwv7wipojsr1nl&amp;raw=1">“Characterizing Optimality in Dynamic Settings: A Monotonicity-based Approach”</a> (with Zhuokai Huang and Demian Pouzo), September 2025.</p></li>
 <li><p><a href="https://www.dropbox.com/scl/fi/esm5r24zlq7kdqvo8eze2/ITM.pdf?rlkey=wrxx4p59fiuj9rg4m4s62wpif&amp;raw=1">“A Dynamic Theory of Optimal Tariffs”</a> (with Eduardo Davila, Andreas Schaab, and Stacy Yingqi Tan), May 2025.</p></li>
-<li><p><a href="https://www.dropbox.com/scl/fi/w2e70zn6271022bd6mm4p/Tariffs.pdf?rlkey=hn0ayxlfyfsd9nk9hj3t1c5re&amp;raw=1">“The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy”</a> (with Mauricio Ulate, Jose P. Vasquez, and Roman Zarate), July 2025.</p></li>
+<li><p><a href="https://www.dropbox.com/scl/fi/w74699ce8j21ytrqoiu1c/TariffsNew.pdf?rlkey=x6iokh66cmtdjqnun4o6eiwiz&amp;raw=1">“The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy”</a> (with Feodora Teti, Mauricio Ulate, Jose P. Vasquez, and Roman Zarate), September 2025.</p></li>
 <li><p><a href="https://www.dropbox.com/scl/fi/go8l28toxcd8pgc812tkq/MVP_0508.pdf?rlkey=up6qp1t7c8464q50kdgtvt921&amp;raw=1">“A Multivariate Distribution with Pareto Tails and Pareto Maxima”</a> (with Costas Arkolakis, Jiun-Hua Su), May 2025. Revision requested at <strong><em>Economic Theory</em></strong>.</p></li>
 <li><p><a href="https://www.dropbox.com/s/idimmxs5c4k7b4x/Draft_ScalingUp.pdf?raw=1">“Scaling Agricultural Policy Interventions: Theory and Evidence from Uganda”</a> (with Lauren Bergquist, Ben Faber, Thibault Fally, Matthias Hoelzlein, and Ted Miguel), April 2025. Revision submitted to <strong><em>Econometrica</em></strong>.</p></li>
 </ul>
@@ -274,13 +275,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
