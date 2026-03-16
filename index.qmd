@@ -47,7 +47,6 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 - ["The 2025 Trade War: Dynamic Impacts Across U.S. States and the Global Economy"](https://www.dropbox.com/scl/fi/aykk9v2g5683za8s90oot/Tariffs.pdf?rlkey=x9qvp3nh1wl5p5leouvmzefhj&raw=1) (with Feodora Teti, Mauricio Ulate, Jose P. Vasquez, and Roman Zarate), February 2026.
 
-- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](https://www.dropbox.com/scl/fi/n4bmcwxfb88bmrhzlxbun/MVP-Revision.pdf?rlkey=mirxeh3ksmqzq48cb6e7tjh5w&raw=1) (with Costas Arkolakis, Jiun-Hua Su), February 2026. Resubmitted to ***Economic Theory***.
 
 ## Work in Progress
 
@@ -62,6 +61,8 @@ Edward G. and Nancy S. Jordan Professor of Economics
 - ["Externalities and Growth,"](https://www.dropbox.com/s/35pnifi05xh3fga/Externalities-Growth.pdf?raw=1) (with Pete Klenow) ***Handbook of Economic Growth***, Volume 1A, edited by P. Aghion and S. Durlauf, 2005.
 
 ## Refereed Publications
+
+- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](https://www.dropbox.com/scl/fi/n4bmcwxfb88bmrhzlxbun/MVP-Revision.pdf?rlkey=mirxeh3ksmqzq48cb6e7tjh5w&raw=1) (with Costas Arkolakis, Jiun-Hua Su), February 2026. Accepted in ***Economic Theory***.
 
 - ["Scaling Agricultural Policy Interventions: Theory and Evidence from Uganda"](https://www.dropbox.com/s/idimmxs5c4k7b4x/Draft_ScalingUp.pdf?raw=1) (with Lauren Bergquist, Ben Faber, Thibault Fally, Matthias Hoelzlein, and Ted Miguel), April 2025. Accepted in ***Econometrica***.
 
