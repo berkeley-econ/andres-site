@@ -37,7 +37,6 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 ## Working Papers
 
-- ["Carbon Taxes in the Global Economy: A Quantitative Analysis"](https://www.dropbox.com/scl/fi/i7hqd6el3n0qrb5r6wzqs/TradeCO2-draft-v29-ARC-homepage.pdf?rlkey=bu197p001yfe8gzkbi8th2o6u&raw=1) (with Ezequiel Garcia-Lembergman, Natalia Ramondo, and Joe Shapiro), October 2025 [preliminary and incomplete draft]
 - ["Carbon Taxes in the Global Economy: A Quantitative Analysis"](papers/TradeCO2-draft-v29-ARC-homepage.pdf) (with Ezequiel Garcia-Lembergman, Natalia Ramondo, and Joe Shapiro), October 2025 [preliminary and incomplete draft]
 
 - ["Scale Economies, Input-Output Loops, and Trade"](papers/BJKR-Sep-2025-Submitted.pdf) (with Dominick Bartelme, Konstantin Kucheryavyy, and Yuyang Jiang), September 2025. [Online Appendix](papers/BJKR-Online-Appendix-Sep-8-2025.pdf)
