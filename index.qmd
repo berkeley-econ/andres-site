@@ -41,7 +41,7 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 - ["Scale Economies, Input-Output Loops, and Trade"](papers/BJKR-Sep-2025-Submitted.pdf) (with Dominick Bartelme, Konstantin Kucheryavyy, and Yuyang Jiang), September 2025. [Online Appendix](papers/BJKR-Online-Appendix-Sep-8-2025.pdf)
 
-- ["Characterizing Optimality in Dynamic Settings: A Monotonicity-based Approach"](papers/Draft20250905v2.pdf) (with Zhuokai Huang and Demian Pouzo), September 2025.
+- ["Characterizing Optimality in Dynamic Settings: A Monotonicity-based Approach"](papers/HPR-master-submit_main.pdf) (with Zhuokai Huang and Demian Pouzo), June 2026. [Online Appendix](papers/BJKR-Online-Appendix-Sep-8-2025.pdf)
 
 - ["A Dynamic Theory of Optimal Tariffs"](papers/ITM.pdf) (with Eduardo Davila, Andreas Schaab, and Stacy Yingqi Tan), May 2025.
 
