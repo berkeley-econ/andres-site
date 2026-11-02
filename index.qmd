@@ -62,9 +62,9 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 ## Refereed Publications
 
-- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](papers/Final_20260412.pdf) (with Costas Arkolakis, Jiun-Hua Su), ***Economic Theory***, June 2026. 
-
 - ["Scaling Agricultural Policy Interventions: Theory and Evidence from Uganda"](papers/scaling_up_draft_260430.pdf) (with Lauren Bergquist, Ben Faber, Thibault Fally, Matthias Hoelzlein, and Ted Miguel), April 2026. Accepted in ***Econometrica***.
+
+- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](papers/Final_20260412.pdf) (with Costas Arkolakis, Jiun-Hua Su), ***Economic Theory***, June 2026.
 
 - ["Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China Shock"](papers/NKTMarch2025.pdf) (with Mauricio Ulate and Jose P. Vasquez), ***Journal of Political Economy***, February 2026. [Slides](papers/SlidesFinal.pdf). [Online Appendix](papers/RUV-Online-Appendix.pdf).
 
