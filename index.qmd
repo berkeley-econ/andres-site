@@ -17,7 +17,7 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 ::: {.column width="70%"}
 **Department of Economics**  
-609 Evans Hall  
+697-E Evans Hall  
 [arc@berkeley.edu](mailto:arc@berkeley.edu)
 
 [Curriculum Vitae](papers/CV-June-2025.pdf)
@@ -62,7 +62,7 @@ Edward G. and Nancy S. Jordan Professor of Economics
 
 ## Refereed Publications
 
-- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](papers/Final_20260412.pdf) (with Costas Arkolakis, Jiun-Hua Su), April 2026. Forthcoming in ***Economic Theory***.
+- ["A Multivariate Distribution with Pareto Tails and Pareto Maxima"](papers/Final_20260412.pdf) (with Costas Arkolakis, Jiun-Hua Su), ***Economic Theory***, June 2026. 
 
 - ["Scaling Agricultural Policy Interventions: Theory and Evidence from Uganda"](papers/scaling_up_draft_260430.pdf) (with Lauren Bergquist, Ben Faber, Thibault Fally, Matthias Hoelzlein, and Ted Miguel), April 2026. Accepted in ***Econometrica***.
 
